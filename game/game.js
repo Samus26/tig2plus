@@ -47996,7 +47996,7 @@ var version = "v1.19.0";
             },
           ],
           Ul = [
-            /*{
+            {
               levelName: "Cloud 9",
               levelFileName: "cloud-9",
               song: hl.songs.cloud9,
@@ -48006,7 +48006,7 @@ var version = "v1.19.0";
               pathToLevel: [],
               maxFrames: 9070,
               difficulty: 5,
-            },*/
+            },
             {
               levelName: "Virtual",
               levelFileName: "virtual",
@@ -48030,7 +48030,7 @@ var version = "v1.19.0";
               maxFrames: 8782,
               difficulty: 8,
             },
-            /*{
+            {
               levelName: "For You",
               levelFileName: "for-you",
               author: "Fluke Games",
@@ -48041,7 +48041,7 @@ var version = "v1.19.0";
               pathToLevel: [],
               maxFrames: 8836,
               difficulty: 5,
-            },*/
+            },
             {
               levelName: "Rum n' Bass",
               levelFileName: "rum-and-bass",
@@ -48053,7 +48053,7 @@ var version = "v1.19.0";
               maxFrames: 11577,
               difficulty: 6,
             },
-            /*{
+            {
               levelName: "Cool Friends",
               levelFileName: "cool-friends",
               song: hl.songs.coolFriends,
@@ -48077,7 +48077,19 @@ var version = "v1.19.0";
               pathToLevel: [],
               maxFrames: 10996,
               difficulty: 6,
-            },*/
+            },
+            {
+              levelName: "Aura",
+              levelFileName: "aura",
+              author: "Fluke Games",
+              song: hl.songs.aura,
+              unlockedByIndex: null,
+              x: 0,
+              y: 0,
+              pathToLevel: [],
+              maxFrames: 9877,
+              difficulty: 6,
+            },
             {
               levelName: "Aurora",
               levelFileName: "aurora",
